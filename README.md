@@ -21,11 +21,11 @@
 ###### Login de Administrador:
 ![imagen](https://github.com/user-attachments/assets/bb6e10dc-bd99-4a96-bc4b-92c5aa315673)
 
-######La parte de Administración:
+###### La parte de Administración:
 ![imagen](https://github.com/user-attachments/assets/0090aa94-0635-4fb2-a121-a49ee1bb16c5)
 
-######Administrar libros:
+###### Administrar libros:
 ![imagen](https://github.com/user-attachments/assets/7f54dacf-4fc4-40b8-bcb4-e4d62702fc8a)
 
-######Administrar autores:
+###### Administrar autores:
 ![imagen](https://github.com/user-attachments/assets/2cb3d9a9-8817-46c8-a719-1dbab5e12611)
